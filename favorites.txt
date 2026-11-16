@@ -1,2 +1,4 @@
 sandwiches 
 cheese 
+haloumi
+salad 
